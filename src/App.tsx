@@ -4,7 +4,7 @@ import {Button} from "@fortis/ui";
 function App() {
 
   return <div>
-    <Button>123</Button>
+    <Button>1234</Button>
   </div>
 }
 
